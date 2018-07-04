@@ -11,4 +11,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     //テスト用
+    //テスト
 }
